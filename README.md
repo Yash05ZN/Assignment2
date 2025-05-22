@@ -1,3 +1,5 @@
+https://youtube.com/shorts/7VsV8x9SdpE?feature=share
+https://github.com/Yash05ZN/Assignment2
 A Study History App
 The Study History App is a simple and interactive Android quiz app that helps users review important historical facts through flashcard-style questions. Built with Kotlin, the app provides immediate feedback for each answer and tracks the user's score.
 
